@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\99.MainGame">
+      <UniqueIdentifier>{a34b2625-c7a7-472a-aceb-04efd16a4044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\00.Header">
+      <UniqueIdentifier>{3d10ac9b-1f9c-4474-890d-f6e6cfca8bd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03.Manager">
+      <UniqueIdentifier>{ae53b147-5afe-4825-8720-162764fddd31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03.Manager\01.DeviceMgr">
+      <UniqueIdentifier>{312d5f88-1957-40ac-aec6-9cc845f948cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03.Manager\03.TimeMgr">
+      <UniqueIdentifier>{236c3c4e-6c50-4fb0-8bed-d333db37570c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03.Manager\04.TextureMgr">
+      <UniqueIdentifier>{c70a14e6-5d9e-4c26-b360-a86d48ee3c1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03.Manager\04.TextureMgr\01.Texture">
+      <UniqueIdentifier>{65f28afc-e678-4528-836c-54a4ce0b894c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03.Manager\02.ObjManager">
+      <UniqueIdentifier>{26ffe157-38dc-450a-8cdb-0aac795b97a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03.Manager\05.Mouse">
+      <UniqueIdentifier>{52ce52b3-10c6-4b86-8f62-cae4f5e69ad1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj">
+      <UniqueIdentifier>{a336dc1a-5c55-4dd6-9fe2-da2aa6158e60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\02.Player">
+      <UniqueIdentifier>{bb9b321d-5945-4ad5-907d-f66b2acfb099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\03.Monster">
+      <UniqueIdentifier>{60a6d163-9ae6-4307-9907-3f1c941729f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\04.Bullet">
+      <UniqueIdentifier>{b3823b26-ca73-4098-9c29-6c8c7e728c85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\00.ObjBase">
+      <UniqueIdentifier>{a754c602-72fd-469d-a0c3-3cfdaee8e943}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\01.BackGround">
+      <UniqueIdentifier>{1f4be353-0981-49f4-8729-35a3c0e90640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\05.Effect">
+      <UniqueIdentifier>{30f99eeb-1bd4-43ff-a043-e5a360c7e711}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\06.Button">
+      <UniqueIdentifier>{f3b23353-8c6c-4707-b0b2-0376a6d04fbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\01.Stage">
+      <UniqueIdentifier>{2636698a-4e74-451c-bf6b-9978657710fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\01.Stage\00.StageBase">
+      <UniqueIdentifier>{f1734297-6133-4981-8d6a-4c8810171854}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\01.Stage\01.StageOne">
+      <UniqueIdentifier>{277971e9-6dea-47b5-837e-3af667ed2b52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\01.Stage\02.StageTwo">
+      <UniqueIdentifier>{1303bf1a-e9e2-4ec3-b2e6-ff39e2917db0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\07.Item">
+      <UniqueIdentifier>{0f72e26f-0813-48c4-af84-2f441ee45065}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\08.UI">
+      <UniqueIdentifier>{2cd027dc-a61f-462a-8d70-a2597c8fc3b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\01.Stage\03.StageThree">
+      <UniqueIdentifier>{04dfa740-4af8-448e-b0a9-5af58f9df682}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\05.Effect\01.AlphaEffect">
+      <UniqueIdentifier>{1a438b2b-2dea-4829-be66-a7859bf613e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\09.MonsterBullet">
+      <UniqueIdentifier>{3cf95eae-13b9-436f-9704-ec6597e407be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02.Obj\01.BackGround\01.BackGroundObject">
+      <UniqueIdentifier>{db6f61ce-69a5-445b-bdd6-acc45f1eacd8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>Source Files\99.MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="single.h">
+      <Filter>Source Files\03.Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="DeviceMgr.h">
+      <Filter>Source Files\03.Manager\01.DeviceMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeMgr.h">
+      <Filter>Source Files\03.Manager\03.TimeMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Defines.h">
+      <Filter>Source Files\00.Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>Source Files\02.Obj\00.ObjBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source Files\02.Obj\02.Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Source Files\02.Obj\03.Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Source Files\02.Obj\04.Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureMgr.h">
+      <Filter>Source Files\03.Manager\04.TextureMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Source Files\03.Manager\04.TextureMgr\01.Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>Source Files\02.Obj\01.BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>Source Files\03.Manager\02.ObjManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Source Files\02.Obj\05.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>Source Files\03.Manager\05.Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuButton.h">
+      <Filter>Source Files\02.Obj\06.Button</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>Source Files\01.Stage\00.StageBase</Filter>
+    </ClInclude>
+    <ClInclude Include="StageOne.h">
+      <Filter>Source Files\01.Stage\01.StageOne</Filter>
+    </ClInclude>
+    <ClInclude Include="StageTwo.h">
+      <Filter>Source Files\01.Stage\02.StageTwo</Filter>
+    </ClInclude>
+    <ClInclude Include="FollowMonster.h">
+      <Filter>Source Files\02.Obj\03.Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Source Files\02.Obj\07.Item</Filter>
+    </ClInclude>
+    <ClInclude Include="HP.h">
+      <Filter>Source Files\02.Obj\08.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="BossMonster.h">
+      <Filter>Source Files\02.Obj\03.Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="StageThree.h">
+      <Filter>Source Files\01.Stage\03.StageThree</Filter>
+    </ClInclude>
+    <ClInclude Include="AlphaEffect.h">
+      <Filter>Source Files\02.Obj\05.Effect\01.AlphaEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterBullet.h">
+      <Filter>Source Files\02.Obj\09.MonsterBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="LastBoss.h">
+      <Filter>Source Files\02.Obj\03.Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGroundObject.h">
+      <Filter>Source Files\02.Obj\01.BackGround\01.BackGroundObject</Filter>
+    </ClInclude>
+    <ClInclude Include="HowToButton.h">
+      <Filter>Source Files\02.Obj\06.Button</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>Source Files\99.MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="DeviceMgr.cpp">
+      <Filter>Source Files\03.Manager\01.DeviceMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeMgr.cpp">
+      <Filter>Source Files\03.Manager\03.TimeMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>Source Files\02.Obj\00.ObjBase</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\02.Obj\02.Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Source Files\02.Obj\03.Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files\02.Obj\04.Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureMgr.cpp">
+      <Filter>Source Files\03.Manager\04.TextureMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files\03.Manager\04.TextureMgr\01.Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
+      <Filter>Source Files\02.Obj\01.BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>Source Files\03.Manager\02.ObjManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Source Files\02.Obj\05.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Source Files\03.Manager\05.Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuButton.cpp">
+      <Filter>Source Files\02.Obj\06.Button</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>Source Files\01.Stage\00.StageBase</Filter>
+    </ClCompile>
+    <ClCompile Include="StageOne.cpp">
+      <Filter>Source Files\01.Stage\01.StageOne</Filter>
+    </ClCompile>
+    <ClCompile Include="StageTwo.cpp">
+      <Filter>Source Files\01.Stage\02.StageTwo</Filter>
+    </ClCompile>
+    <ClCompile Include="FollowMonster.cpp">
+      <Filter>Source Files\02.Obj\03.Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\02.Obj\07.Item</Filter>
+    </ClCompile>
+    <ClCompile Include="HP.cpp">
+      <Filter>Source Files\02.Obj\08.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="BossMonster.cpp">
+      <Filter>Source Files\02.Obj\03.Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="StageThree.cpp">
+      <Filter>Source Files\01.Stage\03.StageThree</Filter>
+    </ClCompile>
+    <ClCompile Include="AlphaEffect.cpp">
+      <Filter>Source Files\02.Obj\05.Effect\01.AlphaEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterBullet.cpp">
+      <Filter>Source Files\02.Obj\09.MonsterBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="LastBoss.cpp">
+      <Filter>Source Files\02.Obj\03.Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGroundObject.cpp">
+      <Filter>Source Files\02.Obj\01.BackGround\01.BackGroundObject</Filter>
+    </ClCompile>
+    <ClCompile Include="HowToButton.cpp">
+      <Filter>Source Files\02.Obj\06.Button</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Framework.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Framework.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
